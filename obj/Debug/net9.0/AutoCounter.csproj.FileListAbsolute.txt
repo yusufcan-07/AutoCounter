@@ -1,0 +1,14 @@
+C:\Users\yusuf\Documents\GitHub\AutoCounter\bin\Debug\net9.0\AutoCounter.exe
+C:\Users\yusuf\Documents\GitHub\AutoCounter\bin\Debug\net9.0\AutoCounter.deps.json
+C:\Users\yusuf\Documents\GitHub\AutoCounter\bin\Debug\net9.0\AutoCounter.runtimeconfig.json
+C:\Users\yusuf\Documents\GitHub\AutoCounter\bin\Debug\net9.0\AutoCounter.dll
+C:\Users\yusuf\Documents\GitHub\AutoCounter\bin\Debug\net9.0\AutoCounter.pdb
+C:\Users\yusuf\Documents\GitHub\AutoCounter\obj\Debug\net9.0\AutoCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\Documents\GitHub\AutoCounter\obj\Debug\net9.0\AutoCounter.AssemblyInfoInputs.cache
+C:\Users\yusuf\Documents\GitHub\AutoCounter\obj\Debug\net9.0\AutoCounter.AssemblyInfo.cs
+C:\Users\yusuf\Documents\GitHub\AutoCounter\obj\Debug\net9.0\AutoCounter.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\GitHub\AutoCounter\obj\Debug\net9.0\AutoCounter.dll
+C:\Users\yusuf\Documents\GitHub\AutoCounter\obj\Debug\net9.0\refint\AutoCounter.dll
+C:\Users\yusuf\Documents\GitHub\AutoCounter\obj\Debug\net9.0\AutoCounter.pdb
+C:\Users\yusuf\Documents\GitHub\AutoCounter\obj\Debug\net9.0\AutoCounter.genruntimeconfig.cache
+C:\Users\yusuf\Documents\GitHub\AutoCounter\obj\Debug\net9.0\ref\AutoCounter.dll
