@@ -30,7 +30,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "yusufcan-07
+          git config --global user.name "yusufcan-07"
           git config --global user.email "ulusoyyusufcan@outlook.com"
           git add counter.txt
           git commit -m "Update counter to $(cat counter.txt)"
