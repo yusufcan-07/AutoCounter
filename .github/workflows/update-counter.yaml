@@ -3,7 +3,7 @@ name: Daily Counter Update
 on:
   schedule:
     # Run daily at 12:00 UTC
-    - cron: "0 21 * * *"
+    - cron: "0 12 * * *"
     workflow_dispatch: # Enables manual runs
     
 jobs:
