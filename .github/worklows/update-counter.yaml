@@ -4,7 +4,8 @@ on:
   schedule:
     # Run daily at 12:00 UTC
     - cron: "0 21 * * *"
-
+    workflow_dispatch: # Enables manual runs
+    
 jobs:
   build:
     runs-on: ubuntu-latest
